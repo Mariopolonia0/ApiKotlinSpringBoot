@@ -99,4 +99,6 @@
 			</plugin>
 		</plugins>
 	</build>
+	<!--hay que war en packaging para compilar el .war-->
+	<packaging>war</packaging>
 </project>
